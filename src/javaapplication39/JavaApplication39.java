@@ -15,7 +15,7 @@ public class JavaApplication39 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is my fist modification to this code");
+        System.out.println("This is my first modification to this code");//changed the word fist to first
     }
     
 }
